@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+$theme-colors: (
+  'primary': #931689c1,
+  'secondary': rgb(39, 37, 37), 
+  'success': white,
+);
+
+
+
+$h1-font-size: 135px;
+$font-family-base: 'Dancing Script', cursive;
+$border-radius: 5px;
+$spacer: 1.2rem;
+
+
+@import '../node_modules/bootstrap/scss/bootstrap';
